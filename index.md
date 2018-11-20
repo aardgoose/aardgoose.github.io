@@ -10,7 +10,7 @@ Still in the dark.
 
 [CaveView](https://aardgoose.github.io/CaveView.js/)
 
-A Web based 3D cave model viewer. View Survex and Therion models online.
+A Web based 3D cave model viewer. View [Survex](https://survex.com/) and [Therion](https://therion.speleo.sk/) models online.
 
 [CVTiles](https://aardgoose.github.io/CVTiles/)
 
