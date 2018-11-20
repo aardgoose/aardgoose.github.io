@@ -2,11 +2,9 @@
 title: aardgoose
 ---
 
-# aardgoose
-
 Still in the dark.
 
-## Projects
+# Projects
 
 [CaveView](https://aardgoose.github.io/CaveView.js/)
 
